@@ -1,0 +1,63 @@
+
+.video-name {
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 16px;
+}
+#myVideo {
+	width: 100%;
+}
+.text-num {
+	font-size: 14px;
+	height: 50px;
+	margin-left: 5px;
+}
+.text-num1 {
+	color: #F0AD4E;
+}
+.text-num2 {
+	color: #DD524D;
+}
+.text-list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin: 30px 0 0 0;
+}
+.text-name {
+	height: 50px;
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 0 50%;
+	        flex: 0 0 50%;
+	text-align: center;
+}
+.text-name-corol {
+	color: #007AFF;
+}
+.xgcolro {
+	color: #4CD964;
+}
+.video1 {
+	width: 100%;
+}
+.introduce-a {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1 0 50%;
+	        flex: 1 0 50%;
+	position: relative;
+	height: 200px;
+	overflow: hidden;
+}
+.introduce-a:nth-child(2) image {
+	position: absolute;
+	right: 60rpx;
+	bottom: 30rpx;
+}
+

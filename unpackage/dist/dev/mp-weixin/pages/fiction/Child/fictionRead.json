@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "lz-red-book": "/components/lz-red-book/lz-red-book",
+    "uni-tag": "/components/uni-tag/uni-tag",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "drawer": "/components/drawer/drawer"
+  }
+}

@@ -1,0 +1,52 @@
+
+.content {
+	overflow: hidden;
+}
+
+/* .xing-video {
+	display: flex;
+	flex-wrap: wrap;
+} */
+.video-name {
+	width: 100%;
+	margin: 10px 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.list-name {
+	-webkit-box-flex: 0;
+	-webkit-flex: 0 0 30%;
+	        flex: 0 0 30%;
+	overflow: hidden;
+	margin: 0 0 0 10px;
+}
+.name {
+	margin: 5px 0 0 10px;
+	font-size: 10px;
+	display: block;
+}
+.name:nth-child(1) {
+	color: #F0AD4E;
+}
+.name:nth-child(2) {
+	color: #333333;
+}
+.name:nth-child(4) {
+	color: #4CD964;
+}
+.name:nth-child(3) {
+	cursor: pointer;
+	color: #007AFF;
+	overflow: hidden; /*超出一行文字自动隐藏 */
+	text-overflow: ellipsis; /*文字隐藏后添加省略号 */
+	white-space: nowrap; /*强制不换行 */
+}
+.fengge {
+	width: 100vh;
+	height: 3px;
+	background-color: #C8C7CC;
+}
+

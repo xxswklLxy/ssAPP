@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#1E90FF",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "星影院",
+  "usingComponents": {
+    "uni-link": "/components/uni-link/uni-link"
+  }
+}

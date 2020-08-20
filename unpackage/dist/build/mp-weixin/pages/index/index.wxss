@@ -1,0 +1,1 @@
+.xing-video{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-flex-wrap:wrap;flex-wrap:wrap}.video-name{margin:10px 10px}.name{display:block;font-size:12px}.name:nth-child(1){color:#f0ad4e}.name:nth-child(3){color:#4cd964}.name:nth-child(2):hover{cursor:pointer;color:#007aff}.fengge{width:100vh;height:3px;margin:0 -10px;background-color:#c8c7cc}
